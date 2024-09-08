@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "typescript": "^5.5.4"
+    "@types/websocket": "^1.0.10",
+    "save": "^2.9.0",
+    "typescript": "^5.5.4",
+    "websocket": "^1.0.35"
   },
   "name": "real-time-chat",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
